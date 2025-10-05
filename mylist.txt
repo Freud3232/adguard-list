@@ -1,6 +1,5 @@
-https://www.conservatoriotorino.eu/
+conservatoriotorino.eu
 google.com
 youtube.com
-facebook.com
 cdn.cloudflare.com
 api.spotify.com
